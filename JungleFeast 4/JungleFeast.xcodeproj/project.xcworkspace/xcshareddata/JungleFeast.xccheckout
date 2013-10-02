@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D24ACE5-6105-4B91-A5A1-9D56D0B33EA8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JungleFeast</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8B9070EA-2B5E-4239-B875-ECD893F86602</key>
+		<string>https://github.com/NodoFox/JungleFeast.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JungleFeast 4/JungleFeast.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8B9070EA-2B5E-4239-B875-ECD893F86602</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NodoFox/JungleFeast.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8B9070EA-2B5E-4239-B875-ECD893F86602</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B9070EA-2B5E-4239-B875-ECD893F86602</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JungleFeast</string>
+		</dict>
+	</array>
+</dict>
+</plist>
